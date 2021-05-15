@@ -2,7 +2,7 @@
 
 **安装方法**
 
-运行要安装的包的文件夹下的install-conan-package.bat即可。
+本仓库的Release页面提供下载。下载后运行install-conan-package.bat即可。
 
 **二进制兼容性**
 
