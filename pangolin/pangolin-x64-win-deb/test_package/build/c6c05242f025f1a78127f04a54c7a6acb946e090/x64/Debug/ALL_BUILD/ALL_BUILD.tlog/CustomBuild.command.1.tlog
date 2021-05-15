@@ -1,0 +1,10 @@
+^C:\USERS\O5\DESKTOP\PANGOLIN-X64-WIN-DEB\TEST_PACKAGE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/O5/Desktop/pangolin-x64-win-deb/test_package -BC:/Users/O5/Desktop/pangolin-x64-win-deb/test_package/build/c6c05242f025f1a78127f04a54c7a6acb946e090 --check-stamp-file C:/Users/O5/Desktop/pangolin-x64-win-deb/test_package/build/c6c05242f025f1a78127f04a54c7a6acb946e090/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\O5\Desktop\pangolin-x64-win-deb\test_package\build\c6c05242f025f1a78127f04a54c7a6acb946e090\CMakeFiles\3c7ae89755dfe1af0ff2ab960389ff43\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CD73AFF-4398-34B6-8799-B9399C435F74}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\O5\Desktop\pangolin-x64-win-deb\test_package\build\ecbfb49a4e2ea8618319be5f9e02c8e0621391fb\bin\libpng16.dll
+C:\Users\O5\Desktop\pangolin-x64-win-deb\test_package\build\ecbfb49a4e2ea8618319be5f9e02c8e0621391fb\example.dir\Release\example.vcxproj.CopyComplete
